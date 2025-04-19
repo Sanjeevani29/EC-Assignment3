@@ -1,0 +1,24 @@
+Results for gap12 (Instance 1) using Genetic Algorithm
+--------------------------------------------------------
+Run  1: Total Benefit = 1211
+Run  2: Total Benefit = 1222
+Run  3: Total Benefit = 1231
+Run  4: Total Benefit = 1192
+Run  5: Total Benefit = 1256
+Run  6: Total Benefit = 1203
+Run  7: Total Benefit = 1292
+Run  8: Total Benefit = 1209
+Run  9: Total Benefit = 1278
+Run 10: Total Benefit = 1230
+Run 11: Total Benefit = 1245
+Run 12: Total Benefit = 1247
+Run 13: Total Benefit = 1216
+Run 14: Total Benefit = 1220
+Run 15: Total Benefit = 1237
+Run 16: Total Benefit = 1257
+Run 17: Total Benefit = 1238
+Run 18: Total Benefit = 1292
+Run 19: Total Benefit = 1217
+Run 20: Total Benefit = 1222
+
+Average Total Benefit after 20 runs: 1235.75
